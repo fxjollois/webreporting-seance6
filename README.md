@@ -1,19 +1,17 @@
-# 🎬 Movies dataset template
+# Webreporting - Séance 6
 
-A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
+Cette appli est la réponse à la demande sur [cette page](https://fxjollois.github.io/cours-2024-2025/but3--vcod--dataviz-web/seance6-demande), dans le cadre d'un cours de Programmation Web pour la Dataviz, en BUT SD parcours VCOD
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movies-dataset-template.streamlit.app/)
+## Pour la lancer sur votre ordinateur
 
-### How to run it on your own machine
-
-1. Install the requirements
+1. Installer les packages nécessaires
 
    ```
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
+2. Lancer l'application
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run app.py
    ```
